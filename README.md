@@ -1,7 +1,18 @@
+## Video Tutorial:
+Part 1: https://www.youtube.com/watch?v=c6t3bW7kx6E
+
+## React - Sass:
+https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc
+## React - SCSS:
+--https://medium.com/@Connorelsea/using-sass-with-create-react-app-7125d6913760
+++https://www.npmjs.com/package/create-react-app-sass
+
+##
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
 
 ## Table of Contents
 
