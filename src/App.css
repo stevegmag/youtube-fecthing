@@ -32,6 +32,9 @@
   padding: 20px;
   border: 5px dashed green;
 }
+input,
+select,
+select option,
 button {
    margin: 10px;
    padding: 10px 20px;
@@ -40,9 +43,27 @@ button {
    color: yellow;
    border: 0px;
    border-radius: 5px;
+   outline: 0px;
 }
-
 button:hover {
   background-color: #322367;
   color: white;
+  outline: 0px;
+ }
+ ul {
+   display: table;
+   width: auto;
+   margin: 0 auto;
+   padding: 0 0 0 0;
+   text-align: center;
+ }
+ li {
+   display: table-cell;
+   width: 185px;
+   max-width: 185px;
+   padding: 15px;
+   margin: 0 5px;
+   vertical-align: top;
+   border: 2px dashed #3f3;
+   border-collapse: collapse;
  }

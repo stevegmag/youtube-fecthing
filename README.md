@@ -5,6 +5,9 @@ Part 1: https://www.youtube.com/watch?v=c6t3bW7kx6E
 ##Flat UI Colors
 https://flatuicolors.com/
 
+##JSON editor online
+https://jsoneditoronline.org/
+
 ## React - Sass:
 https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc
 ## React - SCSS:
