@@ -1,7 +1,10 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Youtube from './Youtube';
+import React, { Component }       from      'react';
+import logo                       from      './logo.svg';
+import                                      './App.css';
+import ChannelListSelectField     from      './components/ChannelListSelectField';
+import Form                       from      './components/Form';
+import Youtube                    from      './components/Youtube';
+
 
 class App extends Component {
   render() {
@@ -11,7 +14,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React :: Youtube Fetching</h1>
         </header>
-
+        <Form />
         <Youtube />
       </div>
     );

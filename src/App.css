@@ -34,7 +34,6 @@
 }
 input,
 select,
-select option,
 button {
    margin: 10px;
    padding: 10px 20px;
@@ -49,6 +48,21 @@ button:hover {
   background-color: #322367;
   color: white;
   outline: 0px;
+ }
+
+  select {
+    height: 43px;
+    padding: 10px 20px;
+  }
+ select option {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 1.23rem;
+    background-color: #e67e22;
+    color: yellow;
+    border: 0px;
+    border-radius: 5px;
+    outline: 0px;
  }
  ul {
    display: table;
